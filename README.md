@@ -1,5 +1,5 @@
 
-Tested only on python 2.7.13
+Tested only on Python **2.7.13**
 
 ```
 python2 irc_challenges.py 1
